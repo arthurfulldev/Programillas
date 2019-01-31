@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <canvas id="canvas_mapa" height="200" style="background-color: black; padding: 1rem">Your browser does not support the HTML5 canvas tag.</canvas><br>
+        <label id="label_mapa"></label>
+    </div><br>
+    <div>
+        <canvas id="canvas_mapa1" height="200" style="background-color: black; padding: 1rem">Your browser does not support the HTML5 canvas tag.</canvas><br>
+        <label id="label_mapa1"></label>
+    </div><br>
+    <div>
+        <canvas id="canvas_mapa2" height="200" style="background-color: black; padding: 1rem">Your browser does not support the HTML5 canvas tag.</canvas><br>
+        <label id="label_mapa2"></label>
+    </div><br>
+    <div>
+        <canvas id="canvas_mapa3" height="200" style="background-color: black; padding: 1rem">Your browser does not support the HTML5 canvas tag.</canvas><br>
+        <label id="label_mapa3"></label>
+    </div>
+    <div>
+        <canvas id="canvas_mapa4" height="200" style="background-color: black; padding: 1rem">Your browser does not support the HTML5 canvas tag.</canvas><br>
+        <label id="label_mapa4"></label>
+    </div>
+                
+    <script src="./BuscarIslas.js"></script>        
+    <script>
+        buscar = new BuscarIslas( ".00...00.\n00..0..0.\n.00....0.\n0000..00.\n.00...00.\n00.....0\n.00....0.\n....0..0.\n.00...00.\n00..0..0.\n.00....0.\n0000..00.\n.00...00.\n00.....0\n.00....0.\n....0..0.\n.00...00.\n00..0..0.\n.00....0.\n0000..00.\n.00...00.\n00.....0\n.00....0.\n....0..0.", "mapa" ).init();
+        buscar = new BuscarIslas( ".00...00.\n00.....0.\n.00....0.\n00....00.\n.00...00.\n00.....0\n.00....0.\n00.....0.\n.0000000.", "mapa1" ).init();
+        buscar = new BuscarIslas( ".00....0.\n0......00.\n.........\n0......0.", "mapa2" ).init();
+        buscar = new BuscarIslas( "00..00.\n00...00\n0.....0", "mapa3" ).init();
+        buscar = new BuscarIslas( "0....\n...00", "mapa4" ).init();
+    </script>
+</body>
+</html>
