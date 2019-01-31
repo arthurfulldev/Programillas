@@ -49,7 +49,7 @@ Debe retornar 10 islas. Cadena:
 ```
 .00...00.\n00..0..0.\n.00....0.\n0000..00.\n.00...00.\n00.....0\n.00....0.\n....0..0.\n.00...00.\n00..0..0.\n.00....0.\n0000..00.\n.00...00.\n00.....0\n.00....0.\n....0..0.\n.00...00.\n00..0..0.\n.00....0.\n0000..00.\n.00...00.\n00.....0\n.00....0.\n....0..0.
 ``` 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/arthurfulldev/programillas/master/Contar%20islas/resultados/1.PNG "Logo Title Text 1")
 
 ### Resultado 2:
 Debe retornar 1 islas. Cadena:
@@ -57,7 +57,7 @@ Debe retornar 1 islas. Cadena:
 .00...00.\n00.....0.\n.00....0.\n00....00.\n.00...00.\n00.....0\n.00....0.\n00.....0.\n.0000000.
 ```
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/arthurfulldev/programillas/master/Contar%20islas/resultados/2.PNG "Logo Title Text 1")
 
 ### Resultado 3:
 Debe retornar 5 islas. Cadena: 
@@ -65,7 +65,7 @@ Debe retornar 5 islas. Cadena:
 .00....0.\n0......00.\n.........\n0......0.
 ```
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/arthurfulldev/programillas/master/Contar%20islas/resultados/3.PNG "Logo Title Text 1")
 
 ### Resultado 4:
 Debe retornar 2 islas. Cadena: 
@@ -73,4 +73,4 @@ Debe retornar 2 islas. Cadena:
 00..00.\n00...00\n0.....0
 ```
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/arthurfulldev/programillas/master/Contar%20islas/resultados/4.PNG "Logo Title Text 1")
