@@ -7,3 +7,4 @@ Mantener la mente activa y conocer nuevas tecnologias.
 ## Contenido:
 
 * [JS - Contar islas.](https://github.com/arthurfulldev/programillas/tree/master/Contar%20islas)
+* [Triangulos de sierpinsky](https://github.com/arthurfulldev/Programillas/tree/master/Triangulo%20de%20Sierpinsky)

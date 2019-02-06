@@ -1,5 +1,11 @@
-#trienagulo_sierpinsky {
+#triangulo-sierpinsky, .svg-triangulo-sierpinsky {
     padding: 1rem;
     background-color: rgba(0,0,0, .2);
     border: 3px solid rgba(0,0,0, .1);
+}
+
+polyline {
+    fill:none;
+    stroke-width:1;
+    stroke:black
 }
